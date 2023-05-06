@@ -17,6 +17,11 @@ body {
 
 }
 
+#logo{
+    height: 55px;
+    
+}
+
 * {
     margin: 0;
     padding: 0;
